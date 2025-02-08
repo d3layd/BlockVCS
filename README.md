@@ -8,10 +8,10 @@ BlockVCS aims to revolutionize version control by leveraging blockchain's immuta
 
 ### Core Features
 
-- ?? Native on-chain storage with efficient compression
-- ?? Cross-chain support (Solana, EVM, Bitcoin)
-- ?? Enterprise-grade access control and auditing
-- ?? Git-compatible workflows
+- Native on-chain storage with efficient compression
+- Cross-chain support (Solana, EVM, Bitcoin)
+- Enterprise-grade access control and auditing
+- Git-compatible workflows
 
 ## Development Status
 
